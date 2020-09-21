@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: peru;
+  color: white;
+}
+
+footer {
+  background-color: teal;
+  color: white;
+}
